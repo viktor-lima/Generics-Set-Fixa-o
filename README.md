@@ -11,3 +11,17 @@ alunos repetidos em mais de um curso.
  instrutor Alex possui três cursos A, B e C, e deseja saber seu número total de alunos.
  
  
+ ### Example:
+        How many students for course A? 3
+        21
+        35
+        22
+        How many students for course B? 2
+        21
+        50
+        How many students for course C? 3
+        42
+        35
+        13
+        
+        Total students: 6
